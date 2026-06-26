@@ -75,3 +75,4 @@ Dự án tích hợp AI để điều chỉnh đèn giao thông theo thời gian
 
 ---
 🌐 *Hồ sơ dự án được chuẩn bị bởi **PineApple** nhằm hướng tới ngày hội **Future Tech Showcase - Demo Day**.*
+link canva: https://www.canva.com/design/DAHNl6Uh_-w/Z7Gwy5iuNJN5k8ZcrnQoyQ/edit
